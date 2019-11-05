@@ -1,0 +1,13 @@
+D:\Unity\visualstudio\ISMArrays\Arrays1\bin\Debug\Arrays1.exe.config
+D:\Unity\visualstudio\ISMArrays\Arrays1\bin\Debug\Arrays1.exe
+D:\Unity\visualstudio\ISMArrays\Arrays1\bin\Debug\Arrays1.pdb
+D:\Unity\visualstudio\ISMArrays\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+D:\Unity\visualstudio\ISMArrays\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+D:\Unity\visualstudio\ISMArrays\Arrays1\obj\Debug\Arrays1.exe
+D:\Unity\visualstudio\ISMArrays\Arrays1\obj\Debug\Arrays1.pdb
+D:\Дагрузки\ISMArrays-master\ISMArrays-master\Arrays1\bin\Debug\Arrays1.exe.config
+D:\Дагрузки\ISMArrays-master\ISMArrays-master\Arrays1\bin\Debug\Arrays1.exe
+D:\Дагрузки\ISMArrays-master\ISMArrays-master\Arrays1\bin\Debug\Arrays1.pdb
+D:\Дагрузки\ISMArrays-master\ISMArrays-master\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+D:\Дагрузки\ISMArrays-master\ISMArrays-master\Arrays1\obj\Debug\Arrays1.exe
+D:\Дагрузки\ISMArrays-master\ISMArrays-master\Arrays1\obj\Debug\Arrays1.pdb

@@ -1,0 +1,7 @@
+D:\Unity\visualstudio\ISMArrays\Arrays2\bin\Debug\Arrays2.exe.config
+D:\Unity\visualstudio\ISMArrays\Arrays2\bin\Debug\Arrays2.exe
+D:\Unity\visualstudio\ISMArrays\Arrays2\bin\Debug\Arrays2.pdb
+D:\Unity\visualstudio\ISMArrays\Arrays2\obj\Debug\Arrays2.csprojAssemblyReference.cache
+D:\Unity\visualstudio\ISMArrays\Arrays2\obj\Debug\Arrays2.csproj.CoreCompileInputs.cache
+D:\Unity\visualstudio\ISMArrays\Arrays2\obj\Debug\Arrays2.exe
+D:\Unity\visualstudio\ISMArrays\Arrays2\obj\Debug\Arrays2.pdb
